@@ -4,7 +4,7 @@ namespace Program1
 {
     class Program
     {
-        //This is where your program starts
+        //This is where your program start
         static void Main(string[] args)
         {
             //Prompt user to enter a name
@@ -29,6 +29,7 @@ namespace Program1
         }
     }
 }
+
 
 /*
  * NOTE:
