@@ -124,6 +124,7 @@ namespace Program2
             Console.WriteLine("Current Hour: " + currentMoment.Hour);
             Console.WriteLine("Current Minute: " + currentMoment.Minute);
             Console.WriteLine("Current Second: " + currentMoment.Second);
+
         }
     }
 }
