@@ -1,0 +1,7 @@
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\bin\Debug\Program6.exe.config
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\bin\Debug\Program6.exe
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\bin\Debug\Program6.pdb
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\obj\Debug\Program6.csprojAssemblyReference.cache
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\obj\Debug\Program6.csproj.CoreCompileInputs.cache
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\obj\Debug\Program6.exe
+C:\Users\lejin\VisualStudio\C-Sharp\Program6\obj\Debug\Program6.pdb
