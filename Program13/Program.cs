@@ -19,20 +19,33 @@ namespace Program13
             //NOTE: The method is now members of class Color and not class Program
 
             //printName(): Output the color name (non-static)
-            public void printName(Color color)
+            public void printName()
             {
-                Console.WriteLine("Color's name is {0}", color.name);
+                Console.WriteLine("Color's name is {0}", this.name);
             }
 
             //setName(): Modify the color name (non-static)
-            public void setName(Color color, string name)
+            public void setName(string name)
             {
-                color.name = name;
+                this.name = name;
             }
-            
+
+            //setHue(): Modify the color hue (non-static)
             public void setHue(int hue)
             {
                 this.hue = hue;
+            }
+
+            //setValue(): Modify the color value (non-static)
+            public void setValue(int value)
+            {
+                this.value = value;
+            }
+
+            //setSaturation(): Modify the color saturation (non-static)
+            public void setSaturation(int saturation)
+            {
+                this.saturation = saturation;
             }
         }
 
@@ -45,17 +58,17 @@ namespace Program13
             //Set color name directly
             color.name = "blue";
 
-            //Pass this Color object to the method
-            color.printName(color);
+            color.printName();
 
             //Change the color name using a method
             Console.WriteLine("After modifying: ");
 
-            //Pass this Color object to the method
-            color.setName(color, "yellow");
+            color.setName("yellow");
+            color.setHue(30);
+            color.setValue(40);
+            color.setSaturation(50);
 
-            //Pass this Color object to the method
-            color.printName(color);
+            color.printName();
 
             //Wait for user to acknowledge
             Console.WriteLine("Press Enter to terminate…");
