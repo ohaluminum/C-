@@ -68,6 +68,7 @@ namespace Program16
             Student student1 = new Student("Iris", "Huang", 1810009);
             student1.Introduction();
             Console.WriteLine();
+
         }
     }
 }
