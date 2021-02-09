@@ -1,7 +1,0 @@
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\bin\Debug\Program4.exe.config
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\bin\Debug\Program4.exe
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\bin\Debug\Program4.pdb
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\obj\Debug\Program4.csprojAssemblyReference.cache
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\obj\Debug\Program4.exe
-C:\Users\lejin\VisualStudio\C-Sharp\Program4\obj\Debug\Program4.pdb
