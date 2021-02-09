@@ -1,0 +1,7 @@
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\bin\Debug\Program8.exe.config
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\bin\Debug\Program8.exe
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\bin\Debug\Program8.pdb
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\obj\Debug\Program8.csprojAssemblyReference.cache
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\obj\Debug\Program8.csproj.CoreCompileInputs.cache
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\obj\Debug\Program8.exe
+C:\Users\lejin\VisualStudio\C-Sharp\Program8\obj\Debug\Program8.pdb
