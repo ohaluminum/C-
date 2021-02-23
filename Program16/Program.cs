@@ -25,7 +25,7 @@ namespace Program16
             //LastName property
             public string LastName { get { return lastName; } set { lastName = value; } }
 
-            public void Introduction()
+            public virtual void Introduction()
             {
                 Console.WriteLine("I'm {0} {1}.", firstName, lastName);
             }
@@ -44,12 +44,13 @@ namespace Program16
             public int StudentID { get { return studentID; } set { studentID = value; } }
 
             //The "new" keyword tells C# that the hiding of methods is intentional 
-            new public void Introduction()
+            //It's better to override than hide!
+            public override void Introduction()
             {
                 //Call the base class methods first
                 base.Introduction();
 
-                Console.WriteLine("I'm {0} {1}, and my student ID is: {2}.", firstName, lastName, StudentID);
+                Console.WriteLine($"My student ID is: {StudentID}.");
             }
         }
 
