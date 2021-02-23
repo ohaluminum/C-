@@ -1,0 +1,10 @@
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\bin\Debug\Program18.exe.config
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\bin\Debug\Program18.exe
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\bin\Debug\Program18.pdb
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.Form1.resources
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.Properties.Resources.resources
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.csproj.GenerateResource.cache
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.csproj.CoreCompileInputs.cache
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.exe
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.pdb
+D:\Program\CSharp\C-Sharp-For-Dummies\Program18\obj\Debug\Program18.csprojAssemblyReference.cache
