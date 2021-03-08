@@ -13,5 +13,15 @@ namespace Program25
         {
 
         }
+
+        protected void ChangeText_Click(object sender, EventArgs e)
+        {
+            TextToChange.Text = "It has changed!";
+        }
+
+        protected void ChangeTheColor(object sender, EventArgs e)
+        {
+            TextToChange.BackColor = System.Drawing.Color.Red;
+        }
     }
 }
