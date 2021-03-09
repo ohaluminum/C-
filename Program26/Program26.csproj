@@ -72,6 +72,7 @@
     <Content Include="Images.aspx" />
     <Content Include="Table.aspx" />
     <Content Include="Text.aspx" />
+    <Content Include="UserInput.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -96,6 +97,13 @@
     </Compile>
     <Compile Include="Text.aspx.designer.cs">
       <DependentUpon>Text.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserInput.aspx.cs">
+      <DependentUpon>UserInput.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserInput.aspx.designer.cs">
+      <DependentUpon>UserInput.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
