@@ -16,14 +16,17 @@ namespace Program27
 
         protected void SubmitButton_Click(object sender, EventArgs e)
         {
+            // Destination: where to upload the file
+            // The Server.MapPath() method returns the local path for the server.
             String localPath = Server.MapPath("~/UploadedFiles/");
 
+            // Check if user has selected a file
             if (FileUpload1.HasFile)
             {
                 try
                 {
-                    FileUpload1.PostedFile.SaveAs(
-                        localPath + FileUpload1.FileName);
+                    // Save in server folder
+                    FileUpload1.PostedFile.SaveAs(localPath + FileUpload1.FileName);
                 }
                 catch (Exception ex)
                 {
