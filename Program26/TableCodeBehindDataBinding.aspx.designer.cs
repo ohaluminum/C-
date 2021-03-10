@@ -11,7 +11,7 @@ namespace Program26
 {
 
 
-    public partial class Table
+    public partial class TableCodeBehindDataBinding
     {
 
         /// <summary>
@@ -33,84 +33,48 @@ namespace Program26
         protected global::System.Web.UI.WebControls.Table Table1;
 
         /// <summary>
-        /// TableCell11 control.
+        /// TableCell1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell11;
+        protected global::System.Web.UI.WebControls.TableCell TableCell1;
 
         /// <summary>
-        /// TableCell12 control.
+        /// TableCell2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell12;
+        protected global::System.Web.UI.WebControls.TableCell TableCell2;
 
         /// <summary>
-        /// TableCell13 control.
+        /// TableCell3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell13;
+        protected global::System.Web.UI.WebControls.TableCell TableCell3;
 
         /// <summary>
-        /// TableCell21 control.
+        /// TableCell4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell21;
+        protected global::System.Web.UI.WebControls.TableCell TableCell4;
 
         /// <summary>
-        /// TableCell22 control.
+        /// TableCell5 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell22;
-
-        /// <summary>
-        /// TableCell23 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell23;
-
-        /// <summary>
-        /// TableCell31 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell31;
-
-        /// <summary>
-        /// TableCell32 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell32;
-
-        /// <summary>
-        /// TableCell33 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TableCell TableCell33;
+        protected global::System.Web.UI.WebControls.TableCell TableCell5;
     }
 }
