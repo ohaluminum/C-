@@ -27,11 +27,18 @@
                 <br />
                 <br />
                 5. Phone<br />
-                <asp:TextBox ID="TextBox5" runat="server" TextMode="Email" Placeholder="Enter Number..."></asp:TextBox>
+                <asp:TextBox ID="TextBox5" runat="server" TextMode="Phone" MaxLength="3" Width="2%"></asp:TextBox>-
+                <asp:TextBox ID="TextBox6" runat="server" TextMode="Phone" MaxLength="3" Width="2%"></asp:TextBox>-
+                <asp:TextBox ID="TextBox7" runat="server" TextMode="Phone" MaxLength="4" Width="2%"></asp:TextBox>
+                &nbsp;&nbsp;&nbsp;
+                <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit" />
+                <br />
+                <br />
+                <asp:Label ID="Label1" runat="server"></asp:Label>
                 <br />
                 <br />
                 6. URL<br />
-                <asp:TextBox ID="TextBox6" runat="server" TextMode="URL" Placeholder="Enter URL..."></asp:TextBox>
+                <asp:TextBox ID="TextBox8" runat="server" TextMode="URL" Placeholder="Enter URL..."></asp:TextBox>
                 <br />
                 <br />
 
