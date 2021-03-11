@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"
+                description="The main page">
+    <siteMapNode url="TestRequest.aspx" title="Request"
+                 description="Coding for the Request"/>
+    <siteMapNode url="FileUpload.aspx" title="File Upload"
+                 description="Upload files to your server"/>
+    <siteMapNode url="Cookies.aspx" title="Cookies"
+                 description="Learn all about Cookies"/>
+    <siteMapNode url="Tracing.aspx" title="Tracing"
+                 description="Configure an app for debugging"/>
+  </siteMapNode>
+</siteMap>

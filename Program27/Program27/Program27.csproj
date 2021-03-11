@@ -67,12 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Cookies.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="FileUpload.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="TestRequest.aspx" />
+    <Content Include="Tracing.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cookies.aspx.cs">
+      <DependentUpon>Cookies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cookies.aspx.designer.cs">
+      <DependentUpon>Cookies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="FileUpload.aspx.cs">
       <DependentUpon>FileUpload.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -95,6 +112,13 @@
     <Compile Include="TestRequest.aspx.designer.cs">
       <DependentUpon>TestRequest.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Tracing.aspx.cs">
+      <DependentUpon>Tracing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tracing.aspx.designer.cs">
+      <DependentUpon>Tracing.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -104,6 +128,7 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="UploadedFiles\" />
